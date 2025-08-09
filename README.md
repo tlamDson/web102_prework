@@ -1,29 +1,35 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Lam Pham**
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
+* I added a navigation button in the navbar that allows users to instantly jump to the our games section.
+
+* I updated the our games section layout from flex to CSS Grid for better visual appeal and improved responsive design.
+
+* I enhanced the stats section responsiveness. Previously, boxes resized awkwardly when the screen narrowed. I fixed by adjusting the flex direction for a cleaner and more consistent layout.
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/38671b81cb064571b61db0c81b82f1ba?sid=6cd40415-6a7f-4b65-b9a2-b2b064f3bc34' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -36,9 +42,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+I do not have any challenges when building the app.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Lam Pham
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
